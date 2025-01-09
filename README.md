@@ -1,7 +1,5 @@
 # Whisper-subtitle
 
-# Whisper-Subtitle
-
 Whisper-Subtitle is a Python-based tool that automates the process of extracting audio from video files, optionally denoising the audio, and generating subtitle files in SRT format using OpenAI's Whisper model. This repository leverages libraries such as PyTorch, Torchaudio, Transformers, and Denoiser to deliver high-quality transcription and subtitle generation.
 
 ## Features
