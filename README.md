@@ -18,5 +18,5 @@ Whisper-Subtitle is a Python-based tool that automates the process of extracting
 ## Notes
 
 * A minimum of **16GB VRAM** is recommended to achieve high-quality subtitle materials.
-* Whisper inherently has issues with generating precise timestamps. As a result, accurate timestamps may not always be produced, and a review is necessary.
+* Whisper has issues with generating precise timestamps. As a result, accurate timestamps may not always be produced, and a review is necessary.
 * In certain languages, the **large-v2** model outperforms the **large-v3** model. This is influenced by the pseudo-labeled training method. For example, tests have confirmed that the large-v2 model delivers stronger performance for Japanese.
